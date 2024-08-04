@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfvuarjs=self.webpackChunkfvuarjs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"What is Fvuarjs?","permalink":"/blog/welcome","unlisted":false}]}')}}]);
